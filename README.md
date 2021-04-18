@@ -2,8 +2,8 @@ csv-gauss-filter.py
 
 This filter will smooth out local variations between cells due to long term
 trim noise but can't be used to interpolate or form regression lines to 
-follow overall trends/patterns, using a wide radius will tend to bring all
-cells towards a global average and would then have to be trimmed out again
+follow overall trends/patterns.  Using a wide radius will tend to bring all
+cells towards a global average and would then have to be trimmed out again.
 
 Save the script in a working directory and save a .csv file of your fuel or
 ve table cells named fuel.csv, then run the script.  I run it through the
