@@ -6,9 +6,8 @@ follow overall trends/patterns.  Using a wide radius will tend to bring all
 cells towards a global average and would then have to be trimmed out again.
 
 Save the script in a working directory and save a .csv file of your fuel or
-ve table cells named fuel.csv, then run the script.  I run it through the
-Spyder IDE from the Anaconda, Python distro which has a nice "Variable
-explorer" tab to display the different tables with color gradation and then
-tweak the filter parameters until I get good results.  The default
-parameters work well for a 32x32 table.  Use a smaller radius for smaller
-tables.
+ve table cells named fuel.csv in the same folder, then run the script.  I run
+it through Spyder IDE from Anaconda which has a nice "Variable explorer" tab
+to display the different tables with color gradation and then tweak the
+filter parameters until I get good results.  The default parameters work well
+for a 32x32 table.  Use a smaller radius for smaller tables.
