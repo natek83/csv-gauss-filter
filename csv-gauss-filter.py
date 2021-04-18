@@ -4,7 +4,6 @@
 Created on Sun Apr 18 00:16:04 2021
 
 @author: nate
-
 """
 
 # This filter will smooth out local variations between cells due to long term
